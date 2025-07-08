@@ -1,0 +1,53 @@
+= 1761 Johann Heinrich Krückkeberg Marriage
+:page-role: doc-width
+
+== Family Group
+
+
+.Marriage Information
+[%header,width="65%",cols="1,3,2,2"]
+|===
+||Name|Marriage +
+Date|Locality (at time
+of marriage)
+
+|*Groom*|Johann Heinrich Krückkeberg|14 June 1761|Berenbusch
+
+|*Bride*|Anne Chrisine Elisabet née Senger|14 June 1761|Evesen
+|===
+
+== Citation
+
+The June 14, 1761, marriage of Johann Heinrich Krükkeberg from Bernbusch to Anna Christine Elisabet
+Senger from Evesen appears on <<image-vol1b-52, image 52>>, on the left-hand page (the pages
+are unnumbered).
+
+== Image 52, Top of Left Page
+
+The marriage entry is found on <<image-vo1b-52, image 52, year 1761, 14 June 1761>> of the
+Petzen "Verzeichnis der Getrauten und Gestorbenen, 1641-1784".
+
+image::petzen-band1b-img52.jpg[title="Johann Heinrich Krückeberg Marriage(Click to enlarge)",link=self]
+
+.Transliteration
+....
+          Copuliert                                                                  1761
+
+d 14ten Juni Johann Heinrich Krückkeberg
+  aus Berenbusch mit Anne Chrisine Elisabet
+ Sengers aus Evensen copuliert
+....
+
+.Translation
+....
+         Marriages                                                                   1761
+14th June Johann Heinrich Krückkeberg
+  from Berenbusch married Anne Chrisine Elisabet
+  Senger from Evensen
+....
+
+[bibliography]
+== Citations
+
+* [[[image-vo1b-52]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/67abb81b75/: 23 November 2023), path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getrauten und Gestorbenen, 1641-1784 > Image 52 of 239
+

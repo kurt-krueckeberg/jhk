@@ -1,0 +1,9 @@
+= Prospective Relationships
+:page-role: doc-width
+
+This graphic by Steve Krueckeberg illustrates inferred prospective Krückeberg family relationships:
+
+image::prospective-pedigree.jpg[title="Inferred, prospectived family relationships, date 30 Oct 2023 (Click to enlarge)",link=self]
+Download xref:attachment$prospective-krueckeberg-pedigree.pdf[Prospective Krückeberg Relationships PDF].
+
+

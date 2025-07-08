@@ -1,0 +1,66 @@
+= 1739 Johann Wilhelm Kruckeberg Baptized
+:page-role: doc-width
+
+== Family Group and Other Facts
+
+[caption="Baptism of: "]
+.Johann Wilhelm Kruckeberg
+[width="45%"]
+|===
+|Baptism Date|Residence/Locality|Godfather
+
+|Feb. 11 1739|Berenbusch|Valsing
+|===
+
+== Citation
+
+The baptism of a Johann Wilhelm Krückeberg occurred February 11^th^ 1739. 
+
+The baptism entry is found on <<image157, image 157>>. It is the last entry at the bottom
+of the right-hand page (the pages are unnumbered). The year 1739 appears in the middle
+of the right page.
+
+== Baptism Record
+
+image::petzen-band1a-img157-krueckeberg.jpg[title="Johann Wilhelm Krückeberg (Click to enlarge)",link=self]
+
+.Transliteration 
+....
+11 hÿ Krückeberg [in] [ẞ. ẞ.] ein Söhnl[ein] tauft
+lassen Johann Wilhelm [benamst?] [uncertain]
+[seina?] Gevatter Valsing
+....
+
+.Explanations
+****
+[IMPORTANT]
+====
+* *Berenbusch* is not mentioned explicitly. It is assumed that image:berenbusch-abbreviation.jpg[] is
+an abbreviation for it. 
+====
+
+[NOTE]
+====
+* "hÿ" stands for the German word "hier", meaning "here."
+
+* It’s a common scribal abbreviation in 17th–18th century German church records, where scribes
+often shortened very common words to save space.
+====
+
+****
+
+.Translation
+....
+On the 11th [of February] the [Berenbusch] Kruckeberg's little son was
+baptized [named] Johann Wilhelm [uncertain]
+His godfather Valsing
+....
+
+
+[bibliography]
+== Citations
+
+* [[[image157]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/ddcc12cae4/ : 09 May 2025),
+path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
+> Image 157 of 322, bottom enty on the right-hand page.
+
