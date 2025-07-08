@@ -1,0 +1,338 @@
+= Krückeberg Pedigree
+
+== TODO Later: For Their Descendents and Them
+
+We need on-site Bückeburg archives research done.
+
+Put togehter the further reaseach needed. Be sure I have a complete list of individuals.:
+Determine the recorded events needed--marriage, confirmation, baptism--and its Nachträge
+for these individuals: 
+
+== Outline of Analysis
+
+The residence is no. 19 Evesen is given for two daughter's marriages:
+
+* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
+
+In the 1816 marriage of daughter Christine Louise Eleonore, there is an addenda that gives her
+birthday and death date. Her birth record likewise contains an addendaq that gives the data for marriage. These two
+records  cross refence easch other, anmd the information in common between the records is consistent. todo: list
+it. 
+
+The baptism records include the identity of the mother.
+
+In the other records we can use the age given to determine the approximate birth year and examine the birth records to
+see if they too reveal the name of the mother.
+
+Todo:Write that analysis up here.
+
+TODO: Mention we have the negative evidence that there are no other records and since we have conscientiously searched all
+records involving the surname Krückeberg we can rule out that there were no other children baptized in the Petzen
+church for this couple.
+
+Mention the steinbergen birth and the fact that it has no birth record in the Steinbergen  church.
+
+== Write up a explanation and the significance of the Nachträge.
+
+Then move this to the introduction to the church records.
+
+** These are the most recent Nachträge:
+*** xref:petzen:petzen-band2-image125-entry31.adoc[1812 Carloline Dorothee Krückeberg Baptism]
+*** xref:petzen:petzen-band2-image27.adoc[1812 Philippine Caroline Christine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image27-2.adoc[1812 Marie Philippine Krückeberg Marriage]
+*** xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+
+== Krückeberg Pedigree Analysis
+
+=== Johann Heinrich Family Group, No. 19 Evesen
+
+==== The Nachträge Breadcrumbs Trail
+
+Some church records contain addenda (Nachtrage in German) that reference other church records for the same individual.
+In the the example below, excerpted from a marriage record, the first two column describe the groom and bride. After
+listing their names, their father's names, their residences, ages and religion, each
+ends with two dates: their *get.*, short for *getauft*, baptism date; followed by the date of  *gest.*,
+short for *gestorben*  death/burial.
+
+image::nachtrag_example.jpg[link=self]
+
+These addendum (Nachträge) identity the same individual in the records they cross reference by date. One does not
+have to infer the individual's identity. The Nachtrage confirms it for you.
+
+== Christine Louise Krückeberg Marriage
+
+The most recent church record for a Krückeberg in the "Verzeichnis der Getauften, Konfirmierten,
+Getrauten und Gestorbenen 1785-1827" that contains Nachtragis is the December 1, 1816, xref:petzen:petzen-band2-image339.adoc[marriage
+of Christine Louise Krückeberg].  At some point, Christine Louise Krückeberg's December 1, 1816, marriage
+record was supplemented with her birth-baptism date and after her death with her death date. 
+
+From the column *"Name, Religion, Geburt und Wohnort der Brat"* (Name, Religion, Birth and Place of Residence of the Bride),
+we learn this:
+
+[quote, "Name, Religion, Geburt und Wohnort der Brat"] 
+____
+Jungfrau Christine Louise Krückebergs, des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen
+hinterlassene eheliche Tochter. Luth. Conf. u. jetzt 19. Jahr alt. 
+____
+
+This grammatical breakdown explains how the German should be rephrased in English:
+
+. Main subject: 
+
++
+*"Jungfrau Christine Louise Krückebergs"* +
+→ “Maiden Christine Louise Krückebergs”
++
+* The *-s* on Krückebergs is not possessive, but likely a *dialectal/feminine marker*.
+. Appositive genitive(possesive) phrase:
+
++
+*"des verstorbenen Johann Heinrich Krückeberg n. 19 in Evesen hinterlassene eheliche Tochter"* +
+→ “legitimate surviving daughter of the deceased Johann Heinrich Krückeberg of No. 19 in Evesen”
+
+This *entire genitive phrase* modifies and explains *who Christine Louise is* — she is the *daughter* of this man.
+
+We can now express it in English:
+
+[quote, English rephrasing]
+____
+Christine Louise Krückeberg, an unmarried woman [alternately, virgin], [is] the legitimate surviving daughter
+of the late Johann Heinrich Krückeberg of No. 19 in Evesen.
+____
+
+Notice also that the bride's address is given in terms of her late father's address.
+
+While the phrase *"n. 19 in Evesen"* grammatically refers to the father,
+because it appears under the column for *"Wohnort der Brat"* (residence of the
+bride), and no other residence is given, it is certainly meant to indicate that
+Christine Louise currently lives at No. 19 in Evesen, even if described
+indirectly through her father's former home.
+
+This style is used repeatedlly in the Petzen marriage records: individuals are identified
+by their household and using the father’s name and house number to define the residence. 
+
+This table summarizes the family information found in her marriage record:
+
+[caption="Johann Heinrich Krückeberg Family Group: "]
+.December 1, 1816, marriage of daughter Christine Louise 
+|===
+|        ||Marriage Date
+
+|*Bride*|Christine Louise|April 26, 1798
+
+|*Bride's Father* 2+|Johann Heinrich Krückeberg, deceased
+
+|*Bride's Mother* 2+|not mentioned
+
+|*Residence* 2+|No. 19 Evesen
+|===
+
+The birth Nachtrage (addendum) gives Christine Louise's birth/baptism date as
+on April 26, 1798]. Only one xref:petzen:petzen-band2-image71.adoc[Christine Louise
+Kückeberg was baptized] in the Petzen church on that date. Her birth record, likewise,
+was later supplemented with her marriage date, December 1, 1816. This independently
+confirms the marriage and birth records refer to the same person.
+
+Her birth-and-baptism record also gives her family's residence as "no. 19
+Evesen". Since it also provides her mother's namem, we now have these cumulative family
+group details:
+
+[caption="Johann Heinrich Krückeberg Family Group on April 26, 1798: "]
+.upon birth of daughter Christine Louise 
+|===
+|||Birthdate
+
+|*Father*|Johann Heinrich Krückeberg |
+
+|*Mother*|Kathar[ine]. Sophie Krömer|
+
+|*Daughter*|Christine Louise|April 26, 1798
+
+|*Residence* 2+|No. 19 Evesen
+|===
+
+TODO: Is the sponsor important at this point?
+
+Her sponsor is: 
+
+
+.Baptism Sponsor
+|===
+|Name|Residence
+
+|Sophie Charlotte Krückeberg|Bärenbusch
+|===
+
+TODO: Point out whar "geb." means.
+
+[NOTE]
+====
+*geb. = née* 
+
+geb. -- quote ?Thode's dictionary. Translated *née*. Née is a French word meaning born.
+When placed after a woman's name it indicates her family name of birth.
+====
+
+A xref:petzen:petzen-band2-image207-2.adoc[confirmation record] for Christine Louise Krückeberg
+is found around the expected date of her 13^th^ or 14^th^ birthday, on April 7, 1811, when she was three
+and a half weeks shy of 13 years old. Her identity is confirmed by matching the information
+given for her parent's names, her birthdate and the families current residence with the same
+information in her marriage and baptism records. Ane by the fact that their are no other ....?
+
+.Facts from April 7, 1811 Confirmation of Christine Louise Krückeberg
+[cols="2,5,2,2,2"]
+|===
+|||Confirmation Date|Birthdate|Marriage Date
+
+|*Father* 4+|Johann Heinrich Krückeberg
+
+|*Mother* 4+|Anne Sophie Krömer
+
+|*Daughter*|Christine Louise|April 7, 1811|April 26, 1798|April 26, 1798
+
+|*Parent's Current Residence* 4+|No. 19 Evesen
+|===
+
+Her mother's given name's differ slightly between these two records: "Anne Sophie Kromer" vs "Kathar[ine] Sophie Krömer".
+The xref:petzen:petzen-band2-image5-1.adoc[marriage record] of her parent's resolves this discrepancy. TODO explain that
+marriage record has all her given names. But put the explanation after adding children below.
+
+.Negative Evidence
+****
+What is negative evidence?
+**Negative Evidence**
+
+**Definition:** Negative evidence arises when the absence of a record where one would be expected becomes evidence
+in itself.
+
+In my case:
+
+All the Petzen 1795-1827 Kirchenbuch records have been thoroughly examined for Krückeberg records, which have been
+transliterated and translated and are at https://docs.krueceberg.org.
+
+If no additional daughters of Johann Heinrich Krückeberg appear in the records where you would reasonably expect
+them—such as in baptisms, confirmations, or marriages—then their absence is informative.
+
+This absence becomes negative evidence that there were no other daughters born or raised in the parish during that time period.
+
+Note: Negative evidence is not the same as a lack of evidence. It's not simply “nothing was found,” but rather “nothing was
+found where something would be expected." If there where further daughters, then there would be a baptism-birth record.
+****
+
+One daughter was born in Steinbergen.
+
+*Outline use after concluding this section that starrted with the Nachtrage for the daughter:*
+. next to the marriage of Johann Heinrich and his wife
+. then the birth of their daughters who were not born in Steinbergen
+. then their confirmations
+. then their marriages, using thee outline at top of this page.
+sum up: these are all children born/baptized in Petzen.
+
+
+Heinrich of No. 19 Evesen is the father in a marriage record, and we have found not just marriage, birth and confirmation
+(and  death) records involving his name, but all Krückebergs.
+
+Daughters of Johann Heinrich Krückeberg
+
+These birth/baptism records list the father abd mother as follows:
+
+.Births to Johann Heinrich Krückeberg & Krömer
+|===
+|Father|Mother|Child|Birth Year|Residence
+
+|Johann Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|xref:petzen:petzen-band2-image59-60.adoc[Philippine Louise Leonore Krückeberg Baptism]|1793|no. 19 Evesen
+
+|Johann Heinrich Krückeberg|not given|Marie Philippine Krückeberg|1794|Steinbergen +
+Note: The birth year and place are from her xref:petzen:petzen-band2-image27-2.adoc[1812 marriage record Nachtrag].
+
+|Johann Heinrich Krückeberg|Anne Sophie née Crömer|xref:petzen:petzen-band2-image71.adoc[Christine Louise Krückeberg Baptism]|1798|no. 19 Evesen
+
+|Johann Heinrich Krückeberg|Catharine Sophie Krömer|xref:petzen:petzen-band2-image82-1.adoc[Sophie Caroline Krückeberg Baptism]|1803|No. 19 Evesen
+|===
+
+These confirmation records also provide the identity of both parents of a child.
+
+* xref:petzen:petzen-band2-image201.adoc[1806 Philippine Louise Leonore Krückeberg Confirmation]
+* xref:petzen:petzen-band2-image207-2.adoc[1811 Christine Louise Krückeberg Confirmation]
+* xref:petzen:petzen-band2-image211-3.adoc[1817 Sophie Caroline Krückeberg Confirmation]
+
+These marriage records identify just one parent, the bride's father, Johann Heinrich Krückeberg of no. 19 Evesen:
+
+* xref:petzen:petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+* xref:petzen:petzen-band2-image348.adoc[1822 Philippine Louise Eleonore Krückeberg Marriage]
+
+Theses recods should have the bride's 1.) father's name and his address, which is also her address since bride's
+lived at home until marriage. We can use the bride's age founnd in the marriage record to determine her approximate
+birth year, and so locate her birth record. Her birth-baptism records will contain both parent's
+names and the family's residence. We will the be able to confirm that the father listed in the marriage record
+and living at the address given in the marriage record of his daughter, father his daughter by the
+mother listed both on the birth record. 
+
+NOTE: Point out that one daughter was born in Steinbergen.
+
+=== Death Record for Johann Heinrich Krückeberg
+
+In the marriage records for his daughters:
+
+* 1816 Christine Louise Krückeberg Marriage
+* 1822 Philippine Louise Eleonore Krückeberg Marriage
+* TODO: add  others
+ 
+their address prior to marriasge is given in terms of their father's address. This is true after his death, too, as the
+marriage records for his daughter Christine Louise Krückeberg shows: xref:petzen:/petzen-band2-image339.adoc[1816 Christine Louise Krückeberg Marriage]
+
+Q: If he died in 1805, why doesn't the xref:petzen:petzen-band2-image27-2.adoc[1812 marriage] of Marie Philippine Krückeberg also state this?
+ 
+
+.Family Group and Other Facts
+[%header,width="60%",cols="1,3,3"]
+|===
+|Relationship|Details|Residence +
+(For mother: Place or Origin)
+
+|*Father*|Joh[ann] Hen[rich] Kruckeberg |N . 10 Berenbusch
+
+|*Mother*|Christine Rösener |Evesen (place of origin)
+
+|*late Son*|Johann Henrich Krückeberg(deceased)|N. 19 Evesen
+|===
+
+.Decedent Facts
+[%header,width="45%",cols="1,2"]]
+|===
+|Fact|Details
+
+|*Decedent's Name*|Johann Henrich Krickberg
+
+|*Occupation*| Colon (farmer)
+
+|*Residence*|no. 19 Evesen
+
+|*Marital Status*|married
+
+|*Age*|38 (as of Mar. 18, 1805)
+
+|*Cause of Death*|hemorrhage
+
+|*Remarks*|He was a quiet true diligent [???] a very useful member of the parish
+
+|*Survivors*|wife and 3 children
+|===
+
+We learn:
+
+* who his parents were.
+* his *age* was 38 when he died, so he was born about *1767*
+* his *address* was *no. 19 Evesen*
+* he had a *"wife and three children"*
+* he was a *farmer*.
+* he was respected
+
+Conclusion: From the birth, confirmation and marriage records, we see a family that lived during all these events at
+no. 19 Evesen, whose father was dead by  
+
+
+TODO:
+Prospective child, though mother's given  name is "off".
+* xref:petzen:petzen-band2-image52.adoc[1791 Friderich Wilhelm Krückeberg Baptism]
