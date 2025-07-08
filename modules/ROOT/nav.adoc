@@ -8,7 +8,6 @@
 ** xref:petzen-band2-image243.adoc[]
 ** xref:petzen-band2-image201.adoc[]
 ** xref:petzen-band2-image207-2.adoc[]
-** xref:petzen-band2-image125-entry31.adoc[]
 ** xref:petzen-band2-image27-2.adoc[]
 ** xref:petzen-band2-image27.adoc[]
 ** xref:petzen-band2-image339.adoc[]
