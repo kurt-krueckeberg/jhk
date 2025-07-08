@@ -4,7 +4,7 @@
 == Family Group and Other Facts
 
 [caption="Bride and Groom Facts for: "]
-.1 Decmeber 1816 Marriage
+.Decmeber 1, 1816 Marriage
 [cols="2,4,4,1,2",options="header",width="85%"]
 |===
 |        | Name     | Address (at time of marriage)|Age| Religion
