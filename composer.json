@@ -1,0 +1,24 @@
+{
+    "name": "kurt-krueckeberg/timeline",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Timeline\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.3" 
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kurt Krueckeberg",
+            "email": "kurt.krueckeberg@gmail.com"
+        }
+    ],
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

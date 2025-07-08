@@ -1,0 +1,7 @@
+= Genealogy Project
+
+These are the https://docs.asciidoctor.org/asciidoc/latest/[Asciidoc] content for the gitlab pages
+website at  https://krueckeberg.gitlab.io/krueckeberg/genealogy[https://krueckeberg.gitlab.io/krueckeberg/genealogy].
+
+The website is an Antora documentation website built from the repo  at
+https://gitlab.com/krueckeberg/genealogy[https://gitlab.com/krueckeberg/genealogy] that holds the Antora setup and playbook.
