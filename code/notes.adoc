@@ -1,0 +1,6 @@
+= Notes
+
+== Taufregister
+
+Starting with image 84 the complete name of the child with the surname is given.
+
