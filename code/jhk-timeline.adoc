@@ -5,11 +5,17 @@
 The baptism of Johann Heinrich Wilhelm Kruckeberg occurred on July 5, 1767. 
 
 .Family Group
-[%header,width="75%",cols="3,4,3,2,2"]
+[%header,width="55%"]
 |===
-|Father|Mother|Child|Residence|Baptism Date
+|||Baptism Date
 
-|Johann Heinrich Kruckeberg|Anne Christine Elisabeth née Seeger|Johann Heinrich Wilhelm|Berenbusch|5 Jul. 1767
+|*Father* 2+|Johann Heinrich Kruckeberg
+
+|*Mother* 2+|Anne Christine Elisabeth née Seeger
+
+|*Child* |Johann Heinrich Wilhelm|5 Jul. 1767
+
+|*Residence* 2+|Berenbusch
 |===
 
 .Sponsors
@@ -298,7 +304,7 @@ Birth| Religion
 |===
 |Birth|Death
 
-|xref:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
+a|xref:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
 |===
 
 [NOTE]
