@@ -62,11 +62,10 @@ $files = [
 "petzen-band2-image243.adoc",
 "petzen-band2-image201.adoc",
 "petzen-band2-image207-2.adoc",
-"petzen-band2-image27-2.adoc",
+//"petzen-band2-image27-2.adoc",
 "petzen-band2-image339.adoc",
 "petzen-band2-image211-3.adoc",
 "petzen-band2-image348.adoc",
-"petzen-band2-image313.adoc",
 ];
 
 foreach($files as $file) {
