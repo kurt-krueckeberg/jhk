@@ -46,7 +46,7 @@ class TimelineCreator {
    }
 }
 
-$creator = new TimelineCreator("jhk-timeline.adoc", "= Johann Heinrich Timeline\n");
+$creator = new TimelineCreator("jhk-timeline.adoc", "= Johann Heinrich Timeline\n:page-role: doc-width\n");
 
 $folder = "/home/kurt/adocs-4-genealogy/m/petzen/p/";
 
