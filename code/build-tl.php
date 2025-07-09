@@ -26,6 +26,8 @@ class TimelineCreator {
       $file = new \SplFileObject($fname, "r");
       
       $header = $file->fgets();
+
+      $this->ofile->fwrite("=" . $header);
       
       goto_regex($file, "@^== Family Group@");
       
@@ -39,16 +41,18 @@ class TimelineCreator {
          if ($rc === 1) 
              break;
       
-          $this->ofile->fput($line);
+          $this->ofile->fwrite($line);
       }
    }
 }
 
 $creator = new TimelineCreator("output.adoc", "= Johann Heinrich Timeline\n");
 
-$files = ["/home/kurt/jhk/m/p/petzen-band1a-image220"];
+$folder = "/home/kurt/jhk/m/r/p/";
+
+$files = ["petzen-band1a-image220.adoc"];
 
 foreach($files as $file) {
-
-   $creator($file);  
+ 
+   $creator($folder . $file);  
 }
