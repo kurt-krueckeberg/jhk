@@ -18,7 +18,7 @@ class TimelineCreator {
    {
       $this->ofile = new \SplFileObject($outfile, "w");
 
-      $this->ofile->fwrite($header);
+      $this->ofile->fwrite($header . "\n");
    }
 
    public function __invoke(string $fname)
@@ -50,7 +50,24 @@ $creator = new TimelineCreator("output.adoc", "= Johann Heinrich Timeline\n");
 
 $folder = "/home/kurt/jhk/m/r/p/";
 
-$files = ["petzen-band1a-image220.adoc"];
+$files = [
+"petzen-band1a-image220.adoc",
+"petzen-band1a-image320.adoc",
+"petzen-band2-image5-1.adoc",
+"petzen-band2-image52.adoc",
+"petzen-band2-image59-60.adoc",
+"petzen-band2-image230.adoc",
+"petzen-band2-image71.adoc",
+"petzen-band2-image82-1.adoc",
+"petzen-band2-image243.adoc",
+"petzen-band2-image201.adoc",
+"petzen-band2-image207-2.adoc",
+"petzen-band2-image27-2.adoc",
+"petzen-band2-image339.adoc",
+"petzen-band2-image211-3.adoc",
+"petzen-band2-image348.adoc",
+"petzen-band2-image313.adoc",
+];
 
 foreach($files as $file) {
  
