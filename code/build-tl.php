@@ -29,7 +29,7 @@ class TimelineCreator {
 
       $this->ofile->fwrite("=" . $header);
       
-      goto_regex($file, "@^== Family Group@");
+      goto_regex($file, "@^== Family Relationship@");
       
       while (!$file->eof()) { // foreach would call rewind()!
       
@@ -46,7 +46,7 @@ class TimelineCreator {
    }
 }
 
-$creator = new TimelineCreator("jhk-timeline.adoc", "= Johann Heinrich Timeline\n:page-role: doc-width\n");
+$creator = new TimelineCreator("/home/kurt/adocs-4-genealogy/m/timelines/p/jhk-timeline.adoc", "= Johann Heinrich Timeline\n:page-role: doc-width\n");
 
 $folder = "/home/kurt/adocs-4-genealogy/m/petzen/p/";
 
