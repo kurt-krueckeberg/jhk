@@ -1,7 +1,7 @@
 = 1755 Sophie Maria Krückeberg Confirmation 
 :page-role: doc-width
 
-.Confirmand Facts
+.Confirmant Facts
 [width="40",cols="3,2,2"]
 |===
 |Name|Confirmation Date|Residence

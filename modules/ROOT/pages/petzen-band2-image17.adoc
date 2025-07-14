@@ -53,8 +53,8 @@ See xref:german-kirchenbücher:understand.adoc#understanding-marriage-banns-or-p
 |===
 s|No. s|Name, Religion, Eltern
 des Bräütigams s|Name, Religion
-Geburt u. Wohnort
-der Brat s|Zeit u. Ort
+Geburts u. Wohnort
+der Braut s|Zeit u. Ort
 der Proclamation s|Zeit u. Ort
 der Kopulation s|der  kopuliren-
 de Pradiger  s|Kopulations

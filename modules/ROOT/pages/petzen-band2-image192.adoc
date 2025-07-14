@@ -1,7 +1,7 @@
 = 1795 Johanne Söphie Carlotte Krückeberg Confirmation 
 :page-role: doc-width
 
-== Family Group
+== Family Relationship 
 
 .Confirmand
 [width="65%",cols="4,4,2"]

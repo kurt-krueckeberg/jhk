@@ -1,7 +1,7 @@
 = 1789 Christina Krückeberg Confirmation Confirmation
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .Confirmand Christina Krückeberg Facts
 [cols="2,2,2",width="45%"]

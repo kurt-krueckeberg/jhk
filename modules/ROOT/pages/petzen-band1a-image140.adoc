@@ -3,6 +3,30 @@
 
 The baptism of a Johann Friedrich Krückeberg, born in Berenbusch, occurred 18 July 1728. 
 
+[caption="Family Relationships and Facts: "]
+.July 7, 1728 Baptism of Johann Friedrich Krückeberg
+[%header,width="45%"]
+|===
+|Relationship/ +
+Fact|Details
+
+|*Father*|Johann Heinrich Krückeberg
+
+|*Son/Infant*|Johann Friedrich
+
+|*Residence*|Berenbusch
+|===
+
+.Godfathers
+[%header,width="35%"]
+|===
+|Name
+
+|Johann Tönnies Eggerding
+
+|H Herman Wiese
+|===
+
 == Citation
 
 The baptism entry is found on <<image140, image 140>>. It is labled **18**, and it is the

@@ -1,7 +1,7 @@
 = 1816 Christine Louise Krückeberg Marriage
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 [caption="Bride and Groom Facts for: "]
 .Decmeber 1, 1816, Marriage of Christine Louise Krückeberg
@@ -12,13 +12,13 @@ Birth| Religion
 
 | *Groom*|Johann Heinrich Klöpper|No. 22 Röcke|Dec. 1, 1816|29|Yes|Lutheran
 
-| *Bride*|Maiden/virgin Christine Louise Krückeberg|No. 19 Evesen +
+| *Bride*|Maiden Christine Louise Krückeberg|No. 19 Evesen +
 (assumed. See **Note** below)|Dec. 1, 1816|19|Yes|Lutheran
 
 |*Groom's Father*|Albrecht Klöpper|no. 22 in Röcke||||
 
 |*Bride's Father*|Johann Heinrich Krückeberg +
-(deceased)|no. 19 Evese||||
+(deceased)|no. 19 Evesen||||
 |===
 
 .Nachträge for Groom Johann Heinrich Klöpper
@@ -34,7 +34,7 @@ Birth| Religion
 |===
 |Birth|Death
 
-|xref:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
+a|xref:petzen:petzen-band2-image71.adoc[26 April 1798]|11 Sept. 1878
 |===
 
 [NOTE]
@@ -138,8 +138,8 @@ image::petzen-band2-img339-705.jpg[align=left,title="Click to enlarge",link=self
 |===
 |Zahl |Name, Stand, Religion +
 u. Eltern des Bräutigams |Name, Religion +
-Geburt u. Wohnort +
-der Brat |Zeit u. Ort + 
+Geburts u. Wohnort +
+der Braut |Zeit u. Ort + 
 der Proclamation |Zeit u. Ort +
 der Kopulation |der kopu +
 lirende +

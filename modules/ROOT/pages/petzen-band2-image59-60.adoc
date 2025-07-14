@@ -1,15 +1,21 @@
 = 1793 Philippina Eleonora Kruckebergen Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .1793 Philippina Eleonora Kruckebergen Baptism
+[%header,cols="1,2,1,1",width="60%"]
 |===
-|Infant|Baptism Date|Sex Birth Order|Father|Mother|Residence
+|||Baptism Date|Sex Birth Order
 
-|Philippina Eleonora Krückeberg|21 April 1793|unclear|Johann Heinrich Krückeberg|Katherina Sophienée Krömer|no. 19 Evesen 
+|*Father* 3+|Johann Heinrich Krückeberg
+
+|*Mother* 3+|Katherina Sophienée Krömer
+
+|*Child*|Philippina Eleonora Krückeberg|21 April 1793|1^st^ daughter +
+
+|*Residence* 3+|no. 19 Evesen
 |===
-
 
 .Baptism Sponsors
 [width="40%"cols="3,1"]
@@ -42,34 +48,37 @@ Page 114:
 
 image::petzen-band2-img60-114.jpg[align="left",title="Click to enlarge",link=self]
 
-.Transliteration of page 113 header, entry 16
+.Transliteration of page 113, entry 16
 ....
-112               Getaufte (Baptisms)       1793                        Getaufe (Bpatisms)                 1793                 113
-
 16) d 21 April: ist Philippina Eloenora Kruckenbergen
 des Johann Heinrich Krückeberg aus Evesen
 No 19 mit seiner Ehefrau Katherina Sophie
-geb. Krömern erzeugten und d [13ten/15ten/1sten]ten geb. Tochter.
+geb. Krömern erzeugten und d [1?]ten geb. Tochter.
 
-16) 21 April: Philippina Eleonora Kruckenbergen was baptized
-the begotten daughter of Johann Heinrich Krückeberg from Evesen
-No 19, by his wife Katherina Sophie
-née Krömer and the [1st?] born daughter.
+ [the record continues at the top of page 114]
 
- [entry continues at the top of page 114]
-
-114               Getaufte (Baptisms)       1793   
 getauft. Gevatttern sind [gemeinsam?]
 1) Christina Margaretha Krückebergs aus Ber:
 2) Sophie Margaretha Nergen aus Meinsen
 3) Catharina Margaretha Rinne aus Evesen
+3) Catharina Margaretha Rinne aus Evesen
+....
+
+.Translation of page 113 header and entry 16
+....
+16) 21 April: Philippina Eleonora Kruckenbergen was baptized
+the begotten daughter of Johann Heinrich Krückeberg from Evesen
+No 19, by his wife Katherina Sophie
+née Krömer and the [1?]st born daughter.
+
+ [entry continues at the top of page 114]
 
 Female sponsors are [together?]
 1) Christina Margaretha Krückeberg from Ber[enbusch]:
 2) Sophie Margaretha Nerge aus Meinsen
 3) Catharina Margaretha Rinne aus Evesen
-
 ....
+
 
 [bibliography]
 == Citations

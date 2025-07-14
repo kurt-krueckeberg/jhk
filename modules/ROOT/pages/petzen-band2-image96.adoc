@@ -1,9 +1,9 @@
 = 1807 Carl Friedrich Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group Facts
+.Family Relationship  Facts
 [%header,cols="3,3,3,2",width="80%"]
 |===
 |Father|Mother|Child|Residence
@@ -180,7 +180,7 @@ from Bärenbusch
 |===
 
 
-== Family Group Facts
+== Family Relationship Facts
 
 .Father
 |===

@@ -1,7 +1,7 @@
 = 1816 Sophie Wilhelmine Krückeberg Confirmation
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .Confirmand Facts
 [%header,cols="4,4,3,1,2",width="80%"]

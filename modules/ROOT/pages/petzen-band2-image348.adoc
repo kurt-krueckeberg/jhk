@@ -3,10 +3,10 @@
 
 On 12 March 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Heinrich Krückeberg, married widower Johann Heinrich Klöpper.
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 [caption="Bride and Groom Facts for: "]
-.12 March 1822 Marraige
+.12 May 1822 Marraige
 [cols="1,3,2,1,3,2", options="header"]
 |===
 |        | Name             | Address (at time of marriage)  | Occupation     | Age | Religion
@@ -15,7 +15,7 @@ On 12 March 1822 Philippine Louise Eleonore Krückeberg, daughter of Johann Hein
 |Widower Friedrich Wilhelm Drifftmeier|n. 19 Bärenbusch|Taglöhner|42|Lutheran
 
 | *Bride*
-|Maiden/virgin Philippine Louise Eleonore Kruckeberg|n. 19 Evesen +
+|Maiden Philippine Louise Eleonore Kruckeberg|n. 19 Evesen +
 (assumed address. See Note)|n/a|29|Lutheran
 
 |*Bride's Father*|Heinrich Krückeberg +
@@ -51,19 +51,6 @@ records.
 |Friedrich Wilhelm Drifftmeier|Widower at time of marriage
 |===
 
-.What was a Taglöhner?
-****
-[NOTE]
-====
-A **Taglöhner** was an agricultural laborer who was paid on a daily basis, who likely worked
-under a contract.
-====
-
-This was a very common status in rural German territories like Schaumburg-Lippe,
-especially during population growth in the early 1800s, when there were too many
-people and too little land to go around.
-****
-
 == Citation
 
 The marriage record is on <<image348, image 348, on pages 722 and 723>>, of the Petzen Kirchenbuch "Verzeichnis der Getauften,
@@ -94,7 +81,7 @@ image::petzen-band2-img348-723.jpg[align=left,title="Click to enlarge",link=self
 |Zahl |Name, Stand, Religion +
 u. Eltern des Bräutigams |Name, Religion +
 Geburt u. Wohnort +
-der Brat |Zeit u. Ort + 
+der Braut |Zeit u. Ort + 
 der Proclamation |Zeit u. Ort +
 der Kopulation |der kopu +
 lirende +
@@ -115,13 +102,27 @@ Evesen Luth. Conf. U. jetzt 29 Jhr alt
 zu Petzen proclamirt +
 d 31 März u. 7 u. 14 +
 April
-|u. Kopulirt d 12 März
+|u. Kopulirt d 12 Maÿ
 |vom dem zeitigen +
 Prediger Stille
 |in Gegenwart +
 der Beichtenden
 |[empty]
 |===
+
+.What was a Taglöhner?
+****
+[NOTE]
+====
+A **Taglöhner** was an agricultural laborer who was paid on a daily basis, who likely worked
+under a contract.
+====
+
+This was a very common status in rural German territories like Schaumburg-Lippe,
+especially during population growth in the early 1800s, when there were too many
+people and too little land to go around.
+****
+
 
 
 [caption="Translation 1: "]
@@ -150,7 +151,7 @@ Evesen Luth. Conf. and now 29 years old
 at  Petzen on +
 31st March and 7th and 14th +
 April
-|and married 12th March
+|and married 12th May
 |by the current +
 pastor Stille
 |in presence +

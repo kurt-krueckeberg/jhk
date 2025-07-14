@@ -2,9 +2,9 @@
 :page-role: doc-width
 
 
-== Family Group
+== Family Relationship 
 
-.Family Group
+.Family Relationship 
 [cols="3,3,3,2,2,2",width="85%"]
 |===
 |Father|Mother|Child|Village and

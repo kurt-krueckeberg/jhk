@@ -1,7 +1,7 @@
 = 1817 Sophie Caroline Krückeberg Confirmation
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .Confirmand
 [%header,cols="3,2,2,1,2",width="60%"]

@@ -1,7 +1,7 @@
 = 1750 Carl Philip Krückeberg
 :page-role: doc-width
 
-== Family Group
+== Family Relationship 
 
 .Family Information
 [width="50%"]

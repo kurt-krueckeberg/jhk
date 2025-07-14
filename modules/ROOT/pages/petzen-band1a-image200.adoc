@@ -28,8 +28,6 @@
 The baptism of Ilse Margaretha Krückeberg is on <<image-vol1a-200, image 200, right page, first entry>> from the  
 "database with images (Register of Baptism and Confirmed of the Petzen Parish, 1641-1784)"
 
-The FamilySearch Tree-IDS [??TODO????].
-
 == Ilse Margaretha Krückeberg Baptism 1759
 
 image::petzen-band1a-img200.jpg[align=left,title='Ilse Margarehta Krückeberg, right page of image 220, first entry (Click to enlarge)',link=self]
@@ -41,7 +39,7 @@ ____
 
 d 16 Sept. Ilse Margaretha Krückebergs +
 des Johann Heinrich Krückebergs zu Berenbusch +
-Tochter getauft. Gev[atterin] I Mädgens,  Wiesen, Engelkings [um/un]
+Tochter getauft. Gev[atterinnen] I Mädgens,  Wiesen, Engelkings [um/un]
 ____
  
 .Translation of 1759 Baptism of Ilse Margaretha Krückeberg

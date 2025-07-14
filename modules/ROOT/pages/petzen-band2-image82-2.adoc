@@ -1,9 +1,9 @@
 = 1803 Christine Philippine Krückeberg Birth
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [cols="3,2,3,3,2,2,2"]
 |===
 |Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date

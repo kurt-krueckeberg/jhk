@@ -1,4 +1,4 @@
-= 1778 Johann Heinrich Kruckeberg Confirmation
+= 1778 Jobst Heinrich Kruckeberg Confirmation
 :page-role: doc-width
 
 .Confirmand
@@ -22,18 +22,28 @@ image::petzen-band1a-img319.jpg[align=left,title='Marriage Entry 3',link=self]
 [NOTE]
 No page number is written on this page.
 
-[caption="Transliteration and Translation: "]
+[caption="Transliteration: "]
 .Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg 
 [%autowidth, cols="l",frame="none"]
 |===
 |                   Confirmati ao 1778 D. Quasimod:
-                    Confirmed year 1778 1st Sunday after Easter
 
 |Line 1 not transliterated
 
 |2. Jobst Heinrich Krückeberg aus Berenbusch
-2. Jobst Heinrich Krückeberg from Berenbusch
 |===
+
+[caption="Translation: "]
+.Page Header and Confimation Entry no. 2 for Jobst Heinrich Krückeberg 
+[%autowidth, cols="l",frame="none"]
+|===
+|                   Confirmed year 1778 1st Sunday after Easter
+
+|Line 1 not transliterated
+
+|2. Jobst Heinrich Krückeberg from Berenbusch
+|===
+
 
 [bibliography]
 == Citations

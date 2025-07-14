@@ -1,14 +1,20 @@
 = 1803 Sophie Caroline Krückeberg Birth
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group
-[cols="3,2,3,3,2,2,2"]
+.Family Relationship 
+[%header,width="55%"cols="1,3,1,1"]
 |===
-|Father|"Stand"|Mother|Child|Location|Child's Birthdate|Child's Baptism Date
+|||Child's Birthdate|Child's Baptism Date
 
-|Johann Heinrich Krückeberg|Hausherr|Catharine Sophie Krömer|Sophie Caroline|No. 19 Evesen|21 Juy 1803|31 July 1803
+|*Father*|Johann Heinrich Krückeberg, Hausherr 2+|
+
+|*Mother*|Catharine Sophie Krömer 2+|
+
+|*Child*|Sophie Caroline|21 Juy 1803|31 July 1803
+
+|*Residence*|No. 19 Evesen 2+|
 |===
 
 .Baptism Sponsors

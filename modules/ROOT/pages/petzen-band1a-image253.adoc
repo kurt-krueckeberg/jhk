@@ -1,9 +1,9 @@
 = 1777 Friderich Wilhelm Weiland Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [%header]
 |===
 |Infant|Baptism Date|Father|Mother|Dwelling

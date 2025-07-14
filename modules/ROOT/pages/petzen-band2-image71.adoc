@@ -1,14 +1,20 @@
 = 1798 Christine Louise Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group
-[cols="3,3,2,2,2,2"]
+.Family Relationship 
+[%header,width="65%"]
 |===
-|Father|Mother|Child|Village|Birthdate|Baptism Date
+|||Birthdate|Baptism Date
 
-|Johann Heinrich Krückeberg|Kathar[ine] Sophie Krömer|Christine Louise|No. 19 Evesen|26 Apr. 1798|29 Apr. 1798
+|*Father* 3+|Johann Heinrich Krückeberg
+
+|*Mother* 3+|Kathar[ine] Sophie Krömer
+
+|*Infant*|Christine Louise|26 Apr. 1798|29 Apr. 1798
+
+|*Residence* 3+|No. 19 Evesen
 |===
 
 .Nachtrag for Christine Louise
@@ -16,7 +22,7 @@
 |===
 |Marriage Date|Death Date
 
-|Dec. 1, 1816|Sep 11, 1878
+|xref:petzen:petzen-band2-image339.adoc[Dec. 1, 1816]|Sep 11, 1878
 |===
 
 .Baptism Sponsors

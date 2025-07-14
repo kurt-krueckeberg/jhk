@@ -1,7 +1,7 @@
 = 1764 Carl Krückeberg Confirmation
 :page-role: doc-width
 
-== Family Group
+== Family Relationship 
 
 .Confirmand
 [%header,width="40%"]

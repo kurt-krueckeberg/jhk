@@ -1,9 +1,9 @@
 = 1805 Philippine Caroline Christine Krückeberg Confirmation
 :page-role: doc-width
 
-== Family Group Facts
+== Family Relationship Facts
 
-.Family Group
+.Family Relationship 
 [%header,cols="3,4,2,3,2,2,2"]
 |===
 |Father|Mother|Family +

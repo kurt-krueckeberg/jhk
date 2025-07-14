@@ -1,10 +1,10 @@
 = 1812 Marie Philippine Krückeberg Marriage
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 [caption="Bride and Groom Facts for: "]
-.Decmeber 1, 1816 Marriage
+.May 10, 1812 Marriage
 [cols="2,4,4,1,2",options="header",width="85%"]
 |===
 |        | Name     | Address (at time of marriage)|Age| Religion
@@ -134,8 +134,8 @@ See this more detailed explantion: link:https://christofspannhoff.wordpress.com/
 |===
 |Zahl |Name, Stand, Religion +
 und Eltern des Bräutigams |Name, Religion +
-Geburt u. Wohnort +
-der Brat |Zeit und Ort +
+Geburts u. Wohnort +
+der Braut |Zeit und Ort +
 der Proclamation |Zeit u. Ort +
 der Kopulation |der kopu +
 lirende +
@@ -150,7 +150,7 @@ in Bärenbusch hinlerlaßener +
 Sohn und Anerbe Luth. Conf. + 
 und jetzt 23 Jahre alt +
 geb. 13.7.88 gestr. 5.12.59
-|Jungfrua Marie Phi- +
+|Jungfrau Marie Phi- +
 lippine Krückebergs Tochter des Johann Hein- +
 rich Krückeberg Leib +
 züchters aus n.10 in Bären +
@@ -177,7 +177,7 @@ Crömer
 |===
 |No.|Name, Occupation, Religion, +
 Parents des Bräutigums|Name, Religion +
-Birth place and Residence +
+Birthplace and Residence +
 of the Bride|Time and Place +
 of the Proclamation|Time and Place +
 of the Marriage|The offi- +

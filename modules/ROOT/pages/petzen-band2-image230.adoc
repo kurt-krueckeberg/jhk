@@ -1,13 +1,20 @@
 = 1794 Friderich Wilhelm Krückeberg-Croemer Burial
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .1794 Friderich Wilhelm Krückeberg Burial
+[width="65%"]
 |===
-|Decedent's Name|Date of Burial|Age|Father|Mother|Family Residence
+|||Date of Burial|Age
 
-|Friderich Wilhelm Krückeberg|29 May 1794|3 1/4  years old|Johann Heinrich Krückeberg|Anne Catherine Crömer|no. 19 Evesen
+|*Father* 3+|Johann Heinrich Krückeberg
+
+|*Mother* 3+|*Anne Catherine Crömer
+
+|*Deceased Child*|Friderich Wilhelm Krückeberg|29 May 1794|3 1/4  years old
+
+|*Residence* 3+| no. 19 Evesen
 |===
 
 == Citation

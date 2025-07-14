@@ -1,9 +1,9 @@
 = 1746 Anna Louisa Eleonora Krückeberg Baptism 
 :page-role: doc-width
 
-== Family Group
+== Family Relationship 
 
-.Family Group
+.Family Relationship 
 [%header,width="45%",cols="1,3,1"]
 |===
 |Father|Infant|Locality
@@ -32,16 +32,16 @@ image::petzen-band1a-img174-left.jpg[align=left,title="Click to enlarge",link=se
 
 .Transliteration
 ....
-d. 26 Oct. Anna Louisa Eloenore Krückebergs getauft
+d. 26 Oct. Anna Louisa Eleonore Krückebergs getauft
 Pater _ _ _ Krückeberg aus Berenbusch Gevatter Rödenbecks
 Tochter aus Scheye
 ....
 
-NOTE: The village **Scheye** below is the same as **Scheie**.
+NOTE: The village *Scheye* below is the same as link:https://www.meyersgaz.org/place/20702058[Scheie].
 
 .Translation
 ....
-26 Oct. Anna Louisa Eloenore Krückebergs baptized
+26 Oct. Anna Louisa Eleonore Krückebergs baptized
 Father _ _ _ Krückeberg aus Berenbusch Godmother Rödenbeck's
 daughter from Scheye
 ....

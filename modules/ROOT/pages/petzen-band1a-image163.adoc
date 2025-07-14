@@ -1,7 +1,7 @@
 = 1741 Sophia Maria Kruekeberg Baptized
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 [caption="Baptism of: "]
 .Sophia Maria Kruekeberg
@@ -49,5 +49,5 @@ Baptized by Mrs. Gaden, the steward’s wife at Hökersau.
 
 * [[[image163]]] "Archion Protestant Kirchenbücher Portal", database with images, _Archion_ (https://www.archion.de/p/63792c38f4/ : 10 May 2025),
 path: Niedersachsen > Niedersächsisches Landesarchiv > Kirchenbücher der Evangelisch-Lutherischen Landeskirche Schaumburg-Lippe > Petzen > Verzeichnis der Getauften und Konfirmierten, 1641-1784
-> Image 163 of 322, left hand page, neabottom enty on the right-hand page.
+> Image 163 of 322, left hand page, 3^rd^ to last entry on the left-hand page.
 

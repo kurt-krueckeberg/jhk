@@ -1,7 +1,7 @@
 = 1812 Carloline Dorothee Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
 .December 1, 1812 Birth
 [%header,cols="3,2,1,1,1,2",width="85%"]

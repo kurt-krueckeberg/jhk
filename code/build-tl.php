@@ -48,7 +48,7 @@ class TimelineCreator {
 
 $creator = new TimelineCreator("/home/kurt/adocs-4-genealogy/m/timelines/p/jhk-timeline.adoc", "= Johann Heinrich Timeline\n:page-role: doc-width\n");
 
-$folder = "/home/kurt/adocs-4-genealogy/m/petzen/p/";
+$input_folder = "/home/kurt/adocs-4-genealogy/m/petzen/p/";
 
 $files = [
 "petzen-band1a-image220.adoc",
@@ -70,5 +70,5 @@ $files = [
 
 foreach($files as $file) {
  
-   $creator($folder . $file);  
+   $creator($input_folder . $file);  
 }

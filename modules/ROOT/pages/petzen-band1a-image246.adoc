@@ -1,9 +1,9 @@
 = 1775 Anna Christina Maria Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group
+== Family Relationship 
 
-.Family Group
+.Family Relationship 
 [%header,cols="3,3,3,2,2",width="85%"]
 |===
 |Father|Mother|Child|Residence|Baptism Date

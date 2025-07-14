@@ -1,23 +1,22 @@
 = 1802 Widower Johann Heinrich Krückeberg Marriage
 :page-role: doc-width
 
-== Family Group and O9ther Facts
+== Family Relationship and Other Facts
 
 .Married Couple
 [%header,width="65%",cols="1,3,3,2,2"]
 |===
 ||Name|Other Info.|Location|"Sh" or No.
 
-|*Groom*|Johann Heinrich Krückeberg|Leibzüchter and widow|Baerenb[usch]|10
+|*Groom*|Johann Heinrich Krückeberg|Leibzüchter (retired farmer) and widower|Berenb[usch]|10
 
-|*Bride*|Philippine Doroth[ea] Beucken|for several years by him/it [uncertain?]|Evesen|[Einliegerin?]
+|*Bride*|Philippine Doroth[ea] Beucken| [weakened?] by him several years ago|Evesen|Einliegerin
 |===
 
 == Citation
 
-The marriage occurred on April 11, 1802. It is <<image12, entry 10 on page 19
-of image 12>> of Petzen Kirchenbuch Verzeichnis der Getauften, Konfirmierten,
-Getrauten und Gestorbenen 1785-1827.
+The marriage occurred on April 11, 1802. It is <<image12, entry 10, page 19, on image 12>> of Petzen
+Kirchenbuch Verzeichnis der Getauften, Konfirmierten, Getrauten und Gestorbenen 1785-1827.
 
 == Page 19
 
@@ -28,14 +27,12 @@ the marriage is actually given on the page 18 above entry 6 as **Am 11 April
 
 image::petzen-band2-img12-right1.jpg[align=left,title="Click to enlarge",link=self]
 
-[caption="Transliteration and Translation 2: "]
+[caption="Transliteration: "]
 .Johann Heinrich Krückeberg Marriage entry number 10, page 19:
 [%autowidth,frame="none"]
 |===
-7+l|18                Getraute im Jahre 1801.1802 (Marriages in the years 1801. 1802)                  
+7+l|18                Getraute im Jahre 1801.1802 
 s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ortschaft s| N.:
-
-| Num | Name of Groom | Village | Sh[uncertain?] |Name of Bride | Village | N.:
 
 |10
 |Wittwer Joh: Heinrich +
@@ -43,19 +40,28 @@ s| Zahl s| Nahmen des Bräutigams  s| Ortschaft s| Sh s| Nahmen der Braut s| Ort
 |Berenb[usch]
 |10
 |Phillippine Doroth: Beucken +
-   von ihm vor einigen Jahren [geschwägt?]
+   von ihm vor einigen Jahren [geschwächt?]
 |Meinsen
-|[Einlieger?in]
+|Einliegerin
+|===
+
+[caption="Translation: "]
+.Johann Heinrich Krückeberg Marriage entry number 10, page 19:
+[%autowidth,frame="none"]
+|===
+7+l|18                Marriages in the Years 1801,1802 
+ s| Num  s| Name of Groom  s| Village  s| [uncertain?]  s|Name of Bride  s| Village  s| N.:
 
 |10
 |Widower Joh[ann] Heinrich +
- Krückeberg  Leibzüchter
-|Barenb:
+ Krückeberg  Leibzüchter (retired farmer)
+|Berenb[usch]
 |10
 |Philippine Doroth Beucke +
- [for several yearts from/by him ?]| Meinsen
-|[no number: a small, unclear word]
+ [weakened?] by him several years ago| Meinsen
+|lodger/tenant
 |===
+
 
 
 [bibliography]

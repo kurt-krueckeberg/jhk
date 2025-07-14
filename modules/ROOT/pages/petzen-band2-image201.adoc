@@ -1,14 +1,21 @@
 = 1806 Philippine Louise Leonore Krückeberg Confirmation
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Confirmand's Family Group
-[cols="3,3,3,2,2,2,2"]
+.Confirmand's Family Relationships
+[cols="2,3,1,1,1",width="70%"]
 |===
-|Father|Mother|Child/Confirmand|Residence of the Father or the Mother|Child's Birthdate|Child's Birthplace|Date of Confirmation
+|||Child's Birthplace|Birthdate|Date of Confirmation
 
-|Johann	Heinrch Kruckeberg|Anne Cathrine Sophie née Krömer|Philippine Louise Leonore|no. 19 Evesen|21 April 1793|Evesen|20 March 30 1806
+|*Father* |Johann Heinrch Kruckeberg 3+|
+
+|*Mother*|Anne Cathrine Sophie née Krömer 3+|
+
+|*Child/Confirmant*|Philippine Louise Leonore|Evesen|21 April 1793|20 March 30 1806
+
+|*Residence of the Father* +
+*or the Mother*|no. 19 Evesen 3+|
 |===
 
 == Citation

@@ -37,7 +37,7 @@ image::petzen-band2-img26-right-2.jpg[align=left,title="Click to enlarge",link=s
 |===
 s|Zahl s|Name, Stand, Religion, +
  Eltern des Bräütigams s|Name, Religion, +
- Geburt u. Wohnort der Brat s|Zeit u. Ort +
+ Geburt u. Wohnort der Braut s|Zeit u. Ort +
  der Proclamation s|Zeit u. Ort +
  der Kopulation s|der kopulirende Prädiger s|Kopulations Zeugen s|Bemerkungen
 

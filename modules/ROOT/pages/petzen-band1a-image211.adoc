@@ -1,9 +1,9 @@
 = 1765 Jobst Heinrich Krückeberg Baptism
 :page-role: doc-width
 
-== Family Group and Other Facts
+== Family Relationship and Other Facts
 
-.Family Group
+.Family Relationship 
 [cols="3,3,2,2,1,3",width="90"]
 |===
 |Father|Child|Residence|Baptism Date|Godfather|Godfather's Residence
