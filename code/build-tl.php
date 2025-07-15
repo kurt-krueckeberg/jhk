@@ -51,22 +51,18 @@ $creator = new TimelineCreator("/home/kurt/adocs-4-genealogy/m/timelines/p/jhk-t
 $input_folder = "/home/kurt/adocs-4-genealogy/m/petzen/p/";
 
 $files = [
-"petzen-band1a-image220.adoc",
-"petzen-band1a-image320.adoc",
-"petzen-band2-image5-1.adoc",
-"petzen-band2-image52.adoc",
-"petzen-band2-image59-60.adoc",
-"petzen-band2-image230.adoc",
-"petzen-band2-image71.adoc",
-"petzen-band2-image82-1.adoc",
-"petzen-band2-image243.adoc",
-"petzen-band2-image201.adoc",
-"petzen-band2-image207-2.adoc",
-//"petzen-band2-image27-2.adoc",
-"petzen-band2-image339.adoc",
-"petzen-band2-image211-3.adoc",
-"petzen-band2-image348.adoc",
-];
+"petzen-band1a-image211.adoc",
+"petzen-band1a-image319.adoc",
+"petzen-band2-image5-3.adoc",
+"petzen-band2-image55.adoc",
+"petzen-band2-image70.adoc",
+"petzen-band2-image239.adoc",
+"petzen-band2-image81.adoc",
+"petzen-band2-image198.adoc",
+"petzen-band2-image91.adoc",
+"petzen-band2-image207-1.adoc",
+"petzen-band2-image27.adoc",
+"petzen-band2-image314.adoc"];
 
 foreach($files as $file) {
  
